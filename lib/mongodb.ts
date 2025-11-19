@@ -9,7 +9,7 @@ type MongooseCache = {
 // Extend the global object to include our mongoose cache
 declare global {
 
-  var mongoose: MongooseCache | undefined;
+  let mongoose: MongooseCache | undefined;
 }
 
 const MONGODB_URI = process.env.MONGODB_URI;
