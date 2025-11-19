@@ -16,7 +16,7 @@ export const articles: Article[] = [
   {
     id: 2,
     title: "Laptop UltraBook",
-    description: "Lightweight laptop with powerful performance for professionals.",
+    description: "Lightweight laptop with powerful for professionals.",
     price: 1299.99,
     category: "Electronics",
     image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
@@ -26,7 +26,7 @@ export const articles: Article[] = [
   {
     id: 3,
     title: "Wireless Headphones",
-    description: "Noise-cancelling headphones with premium sound quality.",
+    description: "Noise-cancelling headphones with premium sound .",
     price: 249.99,
     category: "Audio",
     image: "https://images.unsplash.com/photo-1580894908361-967195033215",
@@ -46,7 +46,7 @@ export const articles: Article[] = [
   {
     id: 5,
     title: "Wireless Earbuds",
-    description: "True wireless earbuds with crystal clear sound and compact charging case.",
+    description: "True wireless earbuds with crystal clear sound and compact charging .",
     price: 129.99,
     category: "Audio",
     image: "https://images.unsplash.com/photo-1590658268037-6e9cf71d3d10",
