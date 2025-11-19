@@ -5,8 +5,8 @@ import {Article} from '@/types'
 export const articles: Article[] = [
   {
     id: 1,
-    title: "Smartphone XYZ Pro",
-    description: "Latest smartphone with advanced camera features and long battery life.",
+    title: "Smartphone Pro",
+    description: " smartphone with advanced camera features and long battery life.",
     price: 899.99,
     category: "Electronics",
     image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
